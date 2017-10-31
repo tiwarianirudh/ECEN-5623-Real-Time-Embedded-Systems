@@ -2,7 +2,7 @@
 ## Real-Time Embedded Systems
 ## Final Project: Time-Lapse Image Acquisition using POSIX Threads
 ### Dev-kits and Tools: NVIDIA Jetson-TK1 and Logitech C200 web-cam
-### Authors: *Anirudh Tiwari* *Mukund M Atre*
+### Authors: *Anirudh Tiwari* , *Mukund M Atre*
 
 **Goal**
 Design and analyze Time Lapse Real-Time Image acquisition using openCV libraries on RTLinux environment using NVIDIA Jetson-TK1 development board.
