@@ -19,12 +19,21 @@ Design and analyze Time Lapse Real-Time Image acquisition using openCV libraries
 
 **References**
 >a) http://docs.opencv.org for video capture and compression.
+
 >b) https://stackoverflow.com/ for background elimination and c++ reference.
+
 >c) http://opencv-help.blogspot.com for sharpening filter.
+
 >d) https://en.wikipedia.org/ for theory and concepts.
+
 >e) https://stackoverflow.com/questions/27035672/cv-extract-differencesbetween-two-images for reading and understanding the working of foreground detection.
+
 >f) Linux manual pages.
+
 >g) eLinux.org for queries regarding Jetson TK1.
+
 >h) Ffmpeg.org.
+
 >i) RTES example codes provided by Dr. Sam Siewert.
+
 >j) Logitech C200 reference.
